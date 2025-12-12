@@ -2,7 +2,7 @@
 
 ## Setup Instructions
 1. Clone the repository  
-   git clone https://github.com/your-username/frontend-assignment.git  
+   git clone https://github.com/GarvMittal04/Frontend-Developer-Intern--Assignment.git
 
 2. Navigate to the project directory  
    cd frontend-assignment  
